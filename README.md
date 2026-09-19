@@ -18,6 +18,12 @@ Eine öffentliche ISO und eine öffentliche Updatequelle sind **noch nicht freig
 
 Eine lokale signierte Paketquelle wurde getestet. Vor einer öffentlichen Bereitstellung folgen Veröffentlichungsschlüssel, Prüfung der Weitergaberechte und weitere Update-Tests. Hier werden aktuell keine installierbaren Updatepakete angeboten.
 
+## Lizenzentscheidung
+
+Der selbst entwickelte Hoshisora-Programmcode soll unter **GPL-3.0-only** veröffentlicht werden. Bei der Weitergabe abgeleiteter Versionen gelten die Quellcode- und Lizenzpflichten der GPLv3; private Änderungen müssen nicht veröffentlicht werden.
+
+Diese Entscheidung gilt nicht pauschal für dieses Repository, die Projektseite oder sämtliche Bestandteile der Distribution. Fremde Komponenten behalten ihre Lizenzen. Name, Logo und andere Gestaltungsdateien sind von dieser Software-Lizenzentscheidung ausgenommen. Die Veröffentlichungspakete mit zugehörigen Quellen und Lizenzhinweisen werden noch vorbereitet.
+
 ## Projektseite bearbeiten
 
 Die statischen Dateien liegen unter `docs/`. GitHub Pages veröffentlicht diesen Ordner vom Branch `main`.

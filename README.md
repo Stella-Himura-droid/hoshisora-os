@@ -12,11 +12,11 @@ Die Entwicklung umfasst eigene Desktop-Symbole und Menüs, Hoshisora-Einstellung
 
 Die Installation und einzelne Anwendungen werden derzeit in virtuellen Maschinen und auf einem AMD-/NVIDIA-Testsystem geprüft. Vollständige Tests für AMD-, Intel- und NVIDIA-Grafik stehen noch aus.
 
-Eine öffentliche ISO ist **noch nicht freigegeben**. Eine signierte Code-Updatequelle für bestehende Testinstallationen wird derzeit geprüft. Dieses Repository enthält zunächst die Projektseite; es ist noch kein vollständiges Quellcode-Repository der Distribution.
+Eine öffentliche ISO ist **noch nicht freigegeben**. Eine signierte Code-Updatequelle für bestehende Testinstallationen wurde in der VM geprüft. Dieses Repository enthält zunächst die Projektseite; es ist noch kein vollständiges Quellcode-Repository der Distribution.
 
 ## Updates
 
-Die sechs Codepakete der Alpha 001 und ihre zugehörigen Quellen sind unter [Code-Updates](https://stella-himura-droid.github.io/hoshisora-os/updates/) bereitgestellt. Pakete und Quelleninformationen sind mit dem Hoshisora-Veröffentlichungsschlüssel signiert. Die Prüfung über GitHub läuft; das Designpaket bleibt unveröffentlicht. Diese Quelle richtet sich an bestehende Hoshisora-Testinstallationen.
+Die sechs Codepakete der Alpha 001 und ihre zugehörigen Quellen sind unter [Code-Updates](https://stella-himura-droid.github.io/hoshisora-os/updates/) bereitgestellt. Pakete und Quelleninformationen sind mit dem Hoshisora-Veröffentlichungsschlüssel signiert. Der Update-Test über GitHub ist bestanden; das Designpaket bleibt unveröffentlicht. Diese Quelle richtet sich an bestehende Hoshisora-Testinstallationen.
 
 ## Lizenzentscheidung
 
